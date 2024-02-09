@@ -4,7 +4,7 @@ const perguntas = [
     respostas: [
       "Corinthians",
       "Flamengo",
-      "São Paulo",
+      "Grêmio",
     ],
     correta: 0
   },
