@@ -63,7 +63,7 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "Em qual ano o Internacional conquistou a Copa Sul-Americana?",
+    pergunta: "Em qual Ano o Internacional conquistou a Copa Sul-Americana?",
     respostas: [
       "2010",
       "2011",
