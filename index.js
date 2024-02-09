@@ -18,13 +18,13 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "Em qual ano o Palmeiras conquistou a Taça Rio Internacional?",
+    pergunta: "Em qual ano o Palmeiras conquistou a 1º Libertadores?",
     respostas: [
-      "2000",
-      "2001",
-      "2002",
+      "1998",
+      "1999",
+      "2021",
     ],
-    correta: 2
+    correta: 1
   },
   {
     pergunta: "Qual estádio sediou a final da Copa do Mundo de 2014?",
@@ -65,9 +65,9 @@ const perguntas = [
   {
     pergunta: "Em qual Ano o Internacional conquistou a Copa Sul-Americana?",
     respostas: [
-      "2010",
+      "2008",
+      "2009",
       "2011",
-      "2012",
     ],
     correta: 0
   },
@@ -87,7 +87,7 @@ const perguntas = [
       "Luciano",
       "Marinho",
     ],
-    correta: 2
+    correta: 1
   },
 ];
   
