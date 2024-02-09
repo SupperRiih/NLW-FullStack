@@ -1,94 +1,94 @@
 const perguntas = [
   {
-    pergunta: "O que significa 'dbd' em DBD Mobile?",
+    pergunta: "Qual clube venceu a Copa do Brasil em 2005?",
     respostas: [
-      "Database Design",
-      "Death by Daylight",
-      "Digital Business Development"
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Qual é a plataforma principal do DBD Mobile?",
-    respostas: [
-      "iOS",
-      "Android",
-      "Ambas as opções estão corretas"
-    ],
-    correta: 2
-  },
-  {
-    pergunta: "Quais são os modos de jogo disponíveis no DBD Mobile?",
-    respostas: [
-      "Apenas Sobrevivência",
-      "Apenas Assassino",
-      "Sobrevivência e Assassino"
-    ],
-    correta: 2
-  },
-  {
-    pergunta: "Qual é o objetivo do Sobrevivente no DBD Mobile?",
-    respostas: [
-      "Eliminar os outros Sobreviventes",
-      "Consertar geradores e escapar",
-      "Assassinar o Assassino"
-    ],
-    correta: 1
-  },
-  {
-    pergunta: "Quais são os tipos de Assassinos disponíveis no DBD Mobile?",
-    respostas: [
-      "Apenas Assassinos humanos",
-      "Apenas Assassinos sobrenaturais",
-      "Assassinos humanos e sobrenaturais"
-    ],
-    correta: 2
-  },
-  {
-    pergunta: "O que é o Cofre no DBD Mobile?",
-    respostas: [
-      "Um item para Sobreviventes",
-      "Um local de armazenamento de tesouros",
-      "Um local de execução para Assassinos"
+      "Corinthians",
+      "Flamengo",
+      "São Paulo",
     ],
     correta: 0
   },
   {
-    pergunta: "Qual é o propósito das Ofertas no DBD Mobile?",
+    pergunta: "Quem foi o artilheiro do Campeonato Brasileiro de 2018?",
     respostas: [
-      "Personalizar o personagem",
-      "Aumentar a dificuldade do jogo",
-      "Obter bônus e benefícios durante a partida"
+      "Gabigol",
+      "Pedro",
+      "Fábio Quagliarella",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Em qual ano o Palmeiras conquistou a Taça Rio Internacional?",
+    respostas: [
+      "2000",
+      "2001",
+      "2002",
     ],
     correta: 2
   },
   {
-    pergunta: "O que é o 'Rift' no DBD Mobile?",
+    pergunta: "Qual estádio sediou a final da Copa do Mundo de 2014?",
     respostas: [
-      "Um buraco dimensional",
-      "Uma expansão de mapa",
-      "Um sistema de progressão com recompensas"
+      "Maracanã",
+      "Mineirão",
+      "Arena da Amazônia",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Quem foi o técnico da Seleção Brasileira na conquista da Copa América de 2019?",
+    respostas: [
+      "Tite",
+      "Felipão",
+      "Mano Menezes",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Em que ano o Corinthians venceu a Libertadores e o Mundial no Japão?",
+    respostas: [
+      "2011",
+      "2012",
+      "2013",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual jogador brasileiro foi o artilheiro da Copa do Mundo de 2002?",
+    respostas: [
+      "Ronaldo",
+      "Kaká",
+      "Ronaldinho Gaúcho",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Em qual ano o Internacional conquistou a Copa Sul-Americana?",
+    respostas: [
+      "2010",
+      "2011",
+      "2012",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual clube brasileiro possui mais títulos da Copa do Brasil até 2021?",
+    respostas: [
+      "Palmeiras",
+      "Grêmio",
+      "Cruzeiro",
     ],
     correta: 2
   },
   {
-    pergunta: "Qual é a função das Habilidades Especiais do Assassino no DBD Mobile?",
+    pergunta: "Quem foi o artilheiro do Campeonato Brasileiro de 2020?",
     respostas: [
-      "Ajudar os Sobreviventes",
-      "Detectar a localização dos Sobreviventes",
-      "Aumentar a velocidade de movimento"
+      "Gabigol",
+      "Luciano",
+      "Marinho",
     ],
-    correta: 1
+    correta: 2
   },
-  {
-    pergunta: "O que acontece quando um Sobrevivente é apanhado pelo Assassino no DBD Mobile?",
-    respostas: [
-      "O Sobrevivente é eliminado do jogo",
-      "O Sobrevivente é colocado em um gancho",
-      "O jogo continua normalmente"
-    ],
-    correta: 1
-  }
 ];
   
   const quiz = document.querySelector('#quiz')
