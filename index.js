@@ -1,6 +1,6 @@
 const perguntas = [
   {
-    pergunta: "Qual clube venceu a Copa do Brasil em 2005?",
+    pergunta: "Qual clube venceu a Copa do Brasil em 2009?",
     respostas: [
       "Corinthians",
       "Flamengo",
@@ -33,7 +33,7 @@ const perguntas = [
       "Mineirão",
       "Arena da Amazônia",
     ],
-    correta: 1
+    correta: 0
   },
   {
     pergunta: "Quem foi o técnico da Seleção Brasileira na conquista da Copa América de 2019?",
