@@ -1,5 +1,5 @@
 # NLW-FullStack
-Primeiro Projeto feito na NLW
+Primeiro Projeto Alternativo feito na NLW
 
 ## Tecnologias usadas
 
